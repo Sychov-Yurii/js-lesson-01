@@ -12,4 +12,8 @@
 // console.log(typeof"0")
 // console.log(typeof NaN)
 
-console 
+console.log(productName)
+"Droid"
+
+console.log(pricePerItem)
+2000
