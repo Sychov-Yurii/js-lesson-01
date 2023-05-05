@@ -1,19 +1,4 @@
+// work 1 //
 
-// Примітивні типи даних
-// 1 Number
-// 2 String 
-//
-//
-//
-
-// console.log(Boolean(1))
-
-// Number
-// console.log(typeof"0")
-// console.log(typeof NaN)
-
-console.log(productName)
-"Droid"
-
-console.log(pricePerItem)
-2000
+const productName = "Droid";
+const pricePerItem = 2000;
