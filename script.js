@@ -426,6 +426,28 @@
 
 // ================= work 34 ================= // 
 
+// function normalizeInput(input) {
+//     const normalizedInput = input.toLowerCase(); // Change this line
+  
+//     return normalizedInput;
+//   }  
+
 // ================= work 35 ================= // 
 
+// function checkForName(fullName, name) {
+//     const result = (fullName.includes(name)); // Change this line
+//      return result;
+//    }   
+
 // ================= work 36 ================= // 
+
+// function checkForSpam(message) {
+//     let result;
+//     // Change code below this line
+//   const forbiddenWord1 = "spam";
+//     const forbiddenWord2 = "sale";
+//     // Change code above this line
+//     result = message.toLowerCase().includes(forbiddenWord1) || message.toLowerCase().includes(forbiddenWord2);
+//     return result;
+//   }
+  
