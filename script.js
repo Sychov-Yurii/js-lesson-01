@@ -450,4 +450,5 @@
 //     result = message.toLowerCase().includes(forbiddenWord1) || message.toLowerCase().includes(forbiddenWord2);
 //     return result;
 //   }
+
   
